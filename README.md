@@ -1,9 +1,9 @@
 ## About
 This is a Weekly Scheduler which you can add your events, or get the event suggestions from [Bored](https://www.boredapi.com/). 
 
+## Link
+[Scheduler](https://ozcan-pektas.herokuapp.com/)
 ## Usage
-After running project, a greeting page welcomes you, by clicking you can skip it. Select the time slot click on it, 
-
 ```
 $ Run the project.
 $ A greeting page welcomes you, click to skip it.
