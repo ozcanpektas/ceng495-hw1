@@ -2,7 +2,7 @@
 This is a Weekly Scheduler which you can add your events, or get the event suggestions from [Bored](https://www.boredapi.com/). 
 
 ## Link
-[Scheduler](https://ozcan-pektas.herokuapp.com/)
+[https://ozcan-pektas.herokuapp.com/](https://ozcan-pektas.herokuapp.com/)
 ## Usage
 ```
 $ Run the project.
