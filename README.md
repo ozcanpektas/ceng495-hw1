@@ -1,3 +1,19 @@
+## About
+This is a Weekly Scheduler which you can add your events, or get the event suggestions from [Bored](https://www.boredapi.com/). 
+
+## Usage
+After running project, a greeting page welcomes you, by clicking you can skip it. Select the time slot click on it, 
+
+```
+$ Run the project.
+$ A greeting page welcomes you, click to skip it.
+$ Select the time slot in which you want to add an event.
+$ A pop up shows up, asks you want suggestions, or fill it by yourself.
+$ Select 'NO' to fill it by yourself, 'YES' to get the suggestions.
+$ If you selected 'NO', type your event and click 'OK' button.
+$ If you selected 'YES', another pop up shows up, and gives 3 suggestions, click on event you want to add your schedule. 
+```
+
 ## Versions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
